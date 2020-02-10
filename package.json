@@ -1,0 +1,17 @@
+{
+  "name": "testingcircleci",
+  "version": "1.0.0",
+  "description": "this is to follow code train videos",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "testingtest"
+  ],
+  "author": "ibrahim",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
