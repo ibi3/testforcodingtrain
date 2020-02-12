@@ -1,5 +1,5 @@
 function sum(a, b) {
-  z = a + b + 42;
+  z = a + b;
   a = a + 2;
   return z;
 }
